@@ -15,9 +15,9 @@ void setup(){
 // runs again and again
 void loop(){
   toLeft();
-  delay(500);
+  delay(250);
   goRight();
-  delay(500);
+  delay(250);
   
 }
 
